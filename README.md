@@ -3,13 +3,13 @@ Sou acadêmico de Eng. da Computação na SATC. Desenvolvedor de aplicações Mo
 
 <h2 align='center'>Redes sociais</h2>
 
-<p style="display: flex; justify-content: center; margin-bottom: 5%">
+<div style="display: flex; justify-content: center; margin-bottom: 5%">
 <a href="mailto:rodrigo4635@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="rodrigo-pasini" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/rodrigo-pasini" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="rodrigo-pasini" height="30" width="40"/></a>
 <a href="https://fb.com/rodrigo.pasinidesouza.5" target="blank"><img align="center" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" alt="rodrigo.pasinidesouza.5" height="30" width="40" /></a>
 <a href="https://instagram.com/rodrigo.pasini1" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="rodrigo.pasini1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/deathawaits" target="blank"><img align="center" src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" alt="deathawaits" height="30" width="40" /></a>
-</p>
+</div>
 
 
 <h2 align='center'>Linguagens e ferramentas</h2>
