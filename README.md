@@ -1,6 +1,6 @@
 
 <h1 align='center'>Sobre</h1>
-<p align='center'>Bacharel em Eng. da Computação. Desenvolvedor Web e Mobile com React, React Native, Javascript, Node e Firebase. Gestor do setor de Desenvolvimento de Software no Sicoob Credisulca com experiência em publicidade e propaganda. Vencedor do concurso Cidadata do Banco Central do Brasil. Fundador da <a href="https://metalpass.com.br">MetalPass</a>. Criador do canal Death Awaits com mais de 7 milhões de visualizações. Já conheceu 2 maravilhas do mundo. Fã do Avicii e Alok, por isso adora a frase "Viva uma vida que você irá se lembrar".</p>
+<p align='center'>Bacharel em Eng. da Computação. Desenvolvedor Web e Mobile com React, React Native, Javascript, Node e Firebase. Vencedor do concurso Cidadata do Banco Central do Brasil. Fundador da <a href="https://metalpass.com.br">MetalPass</a>. Criador do canal Death Awaits com mais de 7 milhões de visualizações. Já conheceu 2 maravilhas do mundo. Fã do Avicii e Alok, por isso adora a frase "Viva uma vida que você irá se lembrar".</p>
 
 <h2 align='center'>Redes sociais</h2>
 
