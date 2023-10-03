@@ -1,8 +1,19 @@
 
-<h1 align='center'>Sobre</h1>
-<p align='center'>Bacharel em Eng. da Computação. Desenvolvedor Web e Mobile com React, React Native, Javascript, Node e Firebase. Vencedor do concurso Cidadata do Banco Central do Brasil. Fundador da <a href="https://metalpass.com.br">MetalPass</a>. Criador do canal Death Awaits com mais de 7 milhões de visualizações. Já conheceu 2 maravilhas do mundo. Fã do Avicii e Alok, por isso adora a frase "Viva uma vida que você irá se lembrar".</p>
+<h1 align='center'>About</h1>
+<p align='center'>
+  I'm a Front-End and Mobile Developer with over 5 years of hands-on experience. Originally from Brazil, currently living and coding in the stunning landscapes of New Zealand.
+</p>
+<p align='center'>
+  My experience spans a variety of technologies including React, React Native, Firebase, Node.js, Gatsby, Sanity and more. My journey began with a degree in Computer Engineering, which took me to the world of technology, innovation and problem solving.
+</p>
+<p align='center'>
+  Beyond coding, I am the founder of MetalPass, an e-commerce that I developed at the end of my degree. Where I was able to apply knowledge of technology, sales, marketing and management.
+</p>
+<p align='center'>
+  My current base in New Zealand has afforded me the privilege of engaging with diverse perspectives and cultures while contributing to a global developer community.
+</p>
 
-<h2 align='center'>Redes sociais</h2>
+<h2 align='center'>Get in touch</h2>
 
 <p align='center'>
   <a href="mailto:rodrigo4635@gmail.com" target="blank">
@@ -11,7 +22,7 @@
   <a href="https://linkedin.com/in/rodrigopasini" target="blank">
     <img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="rodrigo-pasini" height="30" width="40"/>
   </a>
-  <a href="https://instagram.com/rodrigo.pasini1" target="blank">
+  <a href="https://instagram.com/rodrigopasin1" target="blank">
     <img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="rodrigo.pasini1" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/deathawaits" target="blank">
@@ -20,7 +31,7 @@
 </p>
 <br/>
 
-<h2 align='center'>Linguagens e ferramentas</h2>
+<h2 align='center'>My skills and tools</h2>
 
 <p align="center" style="margin-bottom: 8%">
   <a href="https://git-scm.com/" target="_blank">
